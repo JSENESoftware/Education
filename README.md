@@ -1,1 +1,1 @@
-Vue_education
+Information Group Education
